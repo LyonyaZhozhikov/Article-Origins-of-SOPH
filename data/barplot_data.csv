@@ -1,0 +1,70 @@
+trait,abs,perc,abs_norm,total,total_norm,perc_total
+born at term,17.75,95.9,71,18.5,71/74,100
+physiological delivery,8.25,78.6,33,10.5,33/42,100
+normal weight,17.5,92.1,70,19,70/76,100
+normal length,17,95.8,68,17.75,68/71,100
+normal Apgar score,9.75,92.9,39,10.5,39/42,100
+short stature,23,100,92,23,92/92,100
+senile skin,7.75,38.3,31,20.25,31/81,100
+skull anomalies,9,44.4,36,20.25,36/81,100
+underweight,10.75,53.1,43,20.25,43/81,100
+ear dysplasia,4.5,22.2,18,20.25,18/81,100
+fingers anomaly,9.75,48.1,39,20.25,39/81,100
+minor heart anomalies,5,40.8,20,12.25,20/49,100
+bundle branch block,4.25,34.7,17,12.25,17/49,100
+minor arrhythmias ,3.75,30.6,15,12.25,15/49,100
+recurrent bronchitis,5.75,60.5,23,9.5,23/38,100
+pneumonia,2.25,23.7,9,9.5,9/38,100
+lung atelectasis,1,10.5,4,9.5,4/38,100
+bronchial asthma,0.75,7.9,3,9.5,3/38,100
+bronchiectasis,0.5,5.3,2,9.5,2/38,100
+pulmonary hypertension,0.25,2.6,1,9.5,1/38,100
+sinusitis,4.25,36.2,17,11.75,17/47,100
+tonsillitis,3,25.5,12,11.75,12/47,100
+rhinitis,4.25,36.2,17,11.75,17/47,100
+otitis media,2.5,21.3,10,11.75,10/47,100
+hearing loss,2.25,19.1,9,11.75,9/47,100
+immunodeficiency,1.75,25,7,7,7/28,100
+optic atrophy,23,100,92,23,92/92,100
+myopia,8.5,39.1,34,21.75,34/87,100
+astigmatism,8.25,37.9,33,21.75,33/87,100
+angioretinopathy,7.5,34.5,30,21.75,30/87,100
+strabismus,4.25,19.5,17,21.75,17/87,100
+macular degeneration,2.75,12.6,11,21.75,11/87,100
+amblyopia,2,9.2,8,21.75,8/87,100
+vitreous body destruction,2,9.2,8,21.75,8/87,100
+pterygium,0.5,2.3,2,21.75,2/87,100
+cataracts,0.25,1.1,1,21.75,1/87,100
+glaucoma,0.25,1.1,1,21.75,1/87,100
+lagophthalmos,0.25,1.1,1,21.75,1/87,100
+color perception defect,2.75,100,11,2.75,11/11,100
+irregular ossification,4,22.9,16,17.5,16/70,100
+dysplastic bone changes,2,11.4,8,17.5,8/70,100
+osteoporosis,2,11.4,8,17.5,8/70,100
+isolated trauma,1.5,8.6,6,17.5,6/70,100
+posture disorders,6.25,35.7,25,17.5,25/70,100
+residual encephalopathy,11.5,69.7,46,16.5,46/66,100
+intracranial hypertension,9.75,59.1,39,16.5,39/66,100
+impaired concentration,4,24.2,16,16.5,16/66,100
+speech disorders,2.5,15.2,10,16.5,10/66,100
+myotonic syndrome,1.75,10.6,7,16.5,7/66,100
+mental retardation,1.75,10.6,7,16.5,7/66,100
+seizures,1.5,9.1,6,16.5,6/66,100
+intellectual impairment,0.75,4.5,3,16.5,3/66,100
+MRI empty sella turcica syndrome,1,12.1,4,8.25,4/33,100
+MRI cerebellar structures atrophy,0.75,9.1,3,8.25,3/33,100
+elevated ALT/AST,2.5,12,10,20.75,10/83,100
+T2DM,0.25,2,1,12.75,1/51,100
+U/S gallbladder anomalies,6.5,43.3,26,15,26/60,100
+U/S kidney changes,4,26.7,16,15,16/60,100
+U/S pancreas changes,3,20,12,15,12/60,100
+U/S liver changes,2.5,16.7,10,15,10/60,100
+hypothyroidism,1,7.8,4,12.75,4/51,100
+autoimmune thyroiditis,0.25,2,1,12.75,1/51,100
+U/S thyroid abnormalities,5,44.4,20,11.25,20/45,100
+U/S submandibular lymphadenitis,1.25,11.1,5,11.25,5/45,100
+U/S genital organs abnormalities,3,60,12,5,12/20,100
+iron deficiency,2.25,33.3,9,6.75,9/27,100
+hypochromic anemia,0.5,7.4,2,6.75,2/27,100
+normochromic anemia,0.25,3.7,1,6.75,1/27,100
+Pelger-Huet anomaly,7,100,28,7,28/28,100
