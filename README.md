@@ -1,6 +1,6 @@
 <div id="header" align="center">
   
-  ### Article 
+  ####  This is the repository of an article: 
   
   # Origins of SOPH syndrome: a study of 93 Yakut patients with review of NBAS (NAG) pathogenesis 
 </div>
@@ -29,7 +29,7 @@
   <img src="https://raw.githubusercontent.com/LyonyaZhozhikov/Article-Origins-of-SOPH/main/figures/BMI_chart.jpeg" width="1000"/>
 </div>
 
-### Age distribution at medical follow ups
+### Age distribution at medical follow-ups
 
 <div id="header" align="center">
   <img src="https://raw.githubusercontent.com/LyonyaZhozhikov/Article-Origins-of-SOPH/main/figures/followup_plot.jpeg" width="1000"/>
