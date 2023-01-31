@@ -3,7 +3,7 @@ library(ragg)
 
 setwd(dirname(rstudioapi::getSourceEditorContext()$path))
 
-ragg::agg_tiff("figures/radar_plot.tiff", 
+ragg::agg_jpeg("figures/radar_plot.jpeg", 
                width = 1920, height = 1080, units = "px", res = 300, scaling = 0.6)
 
 par(mfrow=c(1,2), mar=c(3.5,1,5,1))

@@ -8,7 +8,7 @@ stature_m_soph <- read.csv("data/BMI_m_soph_3-17.csv")
 
 # this line if for scaling the displayed plot. You can play with "scaling"
 # if you are not satisfied with the outcome
-ragg::agg_tiff("figures/BMI_chart.tiff", 
+ragg::agg_jpeg("figures/BMI_chart.jpeg", 
                width = 1080, height = 1080, units = "px", res = 300, scaling = 0.45)
 
 mydataAA=stature_m_soph  

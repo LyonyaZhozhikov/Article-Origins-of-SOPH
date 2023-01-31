@@ -4,7 +4,7 @@ library(ragg)
 
 setwd(dirname(rstudioapi::getSourceEditorContext()$path))
 
-ragg::agg_tiff("figures/geo_plot.tiff", 
+ragg::agg_jpeg("figures/geo_plot.jpeg", 
                width = 1920, height = 1080, units = "px", res = 300)#
 
 geo_data = read.csv('data/geo_heatmap_data.csv')

@@ -2,7 +2,7 @@ library(ragg)
 
 setwd(dirname(rstudioapi::getSourceEditorContext()$path))
 
-ragg::agg_tiff("figures/stature_chart.tiff", 
+ragg::agg_jpeg("figures/stature_chart.jpeg", 
                width = 1080, height = 1080, units = "px", res = 300, scaling = 0.45)
 
 # male

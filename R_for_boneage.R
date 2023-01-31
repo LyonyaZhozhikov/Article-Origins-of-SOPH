@@ -9,7 +9,7 @@ bone = read.csv("data/КВ.csv")
 
 # this line if for scaling the displayed plot. You can play with "scaling"
 # if you are not satisfied with the outcome
-ragg::agg_tiff("figures/bubble_plot.tiff", 
+ragg::agg_jpeg("figures/bubble_plot.jpeg", 
                width = 1080, height = 1080, 
                units = "px", res = 300, scaling = 0.5)
 

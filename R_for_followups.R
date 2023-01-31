@@ -9,7 +9,7 @@ setwd(dirname(rstudioapi::getSourceEditorContext()$path))
 f_follow = read.csv("data/follow up soph first.csv")
 l_follow = read.csv("data/follow up soph last.csv")
 
-ragg::agg_tiff("figures/followup_plot.tiff", 
+ragg::agg_jpeg("figures/followup_plot.jpeg", 
                width = 1080, height = 720, 
                units = "px", res = 300, scaling = 0.5)
 
