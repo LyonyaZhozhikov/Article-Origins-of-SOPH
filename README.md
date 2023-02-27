@@ -2,7 +2,7 @@
   
   ####  This is the repository of an article: 
   
-  # Origins of SOPH syndrome: a study of 93 Yakut patients with review of NBAS (NAG) pathogenesis 
+  # Origins of SOPH syndrome: a study of 93 Yakut patients with review of C-terminal phenotype 
 </div>
 
 <div id="header" align="center">
