@@ -48,6 +48,12 @@
 ### NBAS pathology:
 
 <div id="header" align="center">
+  <img src="https://raw.githubusercontent.com/LyonyaZhozhikov/Article-Origins-of-SOPH/main/figures/heatmap.jpeg" width="1000"/>
+</div>
+
+#
+
+<div id="header" align="center">
   <img src="https://raw.githubusercontent.com/LyonyaZhozhikov/Article-Origins-of-SOPH/main/figures/radar_plot.jpeg" width="1000"/>
 </div>
 

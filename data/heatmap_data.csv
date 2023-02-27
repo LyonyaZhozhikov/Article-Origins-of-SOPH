@@ -1,0 +1,21 @@
+Trait,Group,Percentage
+a. optic atrophy,Yakut SOPH,100
+b. short stature,Yakut SOPH,96
+c. skull anomalies,Yakut SOPH,44
+d. senile skin,Yakut SOPH,38
+e. frequent infections,Yakut SOPH,70
+f. elevated ALT/AST,Yakut SOPH,12
+g. digit anomalies,Yakut SOPH,48
+h. intellectual impairment,Yakut SOPH,10
+i. muscular hypotonia,Yakut SOPH,32
+j. ALF,Yakut SOPH,0
+a. optic atrophy,World C-terminal,100
+b. short stature,World C-terminal,93.33333333
+c. skull anomalies,World C-terminal,66.66666667
+d. senile skin,World C-terminal,66.66666667
+e. frequent infections,World C-terminal,53.33333333
+f. elevated ALT/AST,World C-terminal,53.33333333
+g. digit anomalies,World C-terminal,46.66666667
+h. intellectual impairment,World C-terminal,46.66666667
+i. muscular hypotonia,World C-terminal,40
+j. ALF,World C-terminal,26.66666667
