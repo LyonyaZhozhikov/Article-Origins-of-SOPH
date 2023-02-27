@@ -27,8 +27,14 @@ mapParams <- mapCountryData(sPDF,
                             oceanCol = 'lightcyan',
                             # mapRegion = 'Eurasia',
                             missingCountryCol = 'white',
-                            addLegend = FALSE
-)
+                            addLegend = F
+                            )
+
+do.call(addMapLegendBoxes, c(mapParams,
+                             x='bottom',
+                             title="Total number",
+                             horiz=TRUE,
+                             cex = 0.6))
 
 dev.off()
 
