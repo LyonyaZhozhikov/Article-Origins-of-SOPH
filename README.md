@@ -60,6 +60,12 @@
 <div id="header" align="right">
 
 #### Published in:
+ 
+##### 
+<a href="https://onlinelibrary.wiley.com/doi/10.1111/cge.14319"><img src="https://shields.io/badge/Clinical%20genetics-Wiley-green?logo=#E9711C&Clinical%20genetics=Wiley" alt="ARTICLE"/></a>
+
+##### 
+<a href="https://onlinelibrary.wiley.com/share/PPM3ZGVITGFQFBVDNTYW?target=10.1111/cge.14319"><img src="https://shields.io/badge/Full%20Access-Article-green?logo=#E9711C&Full%20Access=Article" alt="FullAccess"/></a>
 
 <a href="https://www.scimagojr.com/journalsearch.php?q=22064&amp;tip=sid&amp;exact=no" title="SCImago Journal &amp; Country Rank"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=22064" alt="SCImago Journal &amp; Country Rank"  /></a>
 </div>
