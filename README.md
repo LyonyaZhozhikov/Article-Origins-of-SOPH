@@ -8,7 +8,6 @@
 <div id="header" align="center">
   <img src="https://raw.githubusercontent.com/LyonyaZhozhikov/Article-Origins-of-SOPH/main/figures/geo_plot.jpeg" width="1000"/>
 </div>
-<div id="header" align="center">
 
 #
 
@@ -57,17 +56,32 @@
   <img src="https://raw.githubusercontent.com/LyonyaZhozhikov/Article-Origins-of-SOPH/main/figures/radar_plot.jpeg" width="1000"/>
 </div>
 
-<div id="header" align="right">
+<div id="header" align="center">
 
 #### Published in:
  
 ##### 
-<a href="https://onlinelibrary.wiley.com/doi/10.1111/cge.14319"><img src="https://shields.io/badge/Clinical%20genetics-Wiley-green?logo=#E9711C&Clinical%20genetics=Wiley" alt="ARTICLE"/></a>
+<a href="https://onlinelibrary.wiley.com/journal/13990004"><img src="https://shields.io/badge/Clinical%20Genetics-Wiley-green?logo=#E9711C&Clinical%20Genetics=Wiley" alt="ARTICLE"/></a>
 
 ##### 
-<a href="https://onlinelibrary.wiley.com/share/PPM3ZGVITGFQFBVDNTYW?target=10.1111/cge.14319"><img src="https://shields.io/badge/Full%20Access-Article-green?logo=#E9711C&Full%20Access=Article" alt="FullAccess"/></a>
+<a href="https://onlinelibrary.wiley.com/doi/10.1111/cge.14319"><img src="https://shields.io/badge/Open%20Access-Article-green?logo=#E9711C&Open%20Access=Article" alt="OpenAccess"/></a>
 
-<a href="https://www.scimagojr.com/journalsearch.php?q=22064&amp;tip=sid&amp;exact=no" title="SCImago Journal &amp; Country Rank"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=22064" alt="SCImago Journal &amp; Country Rank"  /></a>
+<table align="center">
+  <tr>
+    <td align="left" style="width: 50%;">
+      <a href="https://www.scimagojr.com/journalsearch.php?q=22064&amp;tip=sid&amp;exact=no" title="SCImago Journal &amp; Country Rank">
+        <img src="https://www.scimagojr.com/journal_img.php?id=22064" alt="SCImago Journal &amp; Country Rank" />
+      </a>
+    </td>
+    <td align="right" style="width: 50%;">
+      <a href="https://wos-journal.info/journalid/14011" title="WOS-Journal.info">
+        <img src="https://wos-journal.info/journalide/14011" width="320" height="120" alt="WOS-Journal.info" />
+      </a>
+    </td>
+  </tr>
+</table>
+
 </div>
 
-</div>
+Please, also check my ResearchGate page for full texts and more: <a href="https://www.researchgate.net/profile/Leonid-Zhozhikov-3"><img src="https://shields.io/badge/ResearchGate-Page-green?logo=#E9711C&ResearchGate=Page" alt="Page"/></a>
+
